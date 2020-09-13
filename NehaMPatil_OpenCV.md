@@ -2,5 +2,7 @@
 
 ```
 Face Detection and Recognition
-Object Detection 
+Object Detection and Identification
+Image Classification
+Gesture recognition
  ```
